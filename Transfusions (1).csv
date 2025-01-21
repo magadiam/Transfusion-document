@@ -1,0 +1,6 @@
+Count of platelet_transfusion,plasma_transfusion,,,
+platelet_transfusion,FALSE,TRUE,(blank),Grand Total
+FALSE,376,277,,653
+TRUE,4,,,4
+(blank),,,,
+Grand Total,380,277,,657
